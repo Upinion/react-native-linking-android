@@ -1,0 +1,24 @@
+{
+  "name": "react-native-linking-android",
+  "version": "1.0.0",
+  "description": "React native linking android gives you a general interface to interact with outgoing app links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "uri",
+    "android",
+    "url",
+    "email",
+    "react-component"
+  ],
+  "author": "JDiaz <julian.diaz@upinion.com>",
+  "repository": "https://github.com/Upinion/react-native-linking-android",
+  "bugs": "https://github.com/Upinion/react-native-linking-android/issues",
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  }
+}
