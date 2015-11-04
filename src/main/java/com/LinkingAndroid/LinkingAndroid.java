@@ -1,4 +1,4 @@
-package com.app;
+package com.upinion.LinkingAndroid;
 
 import android.content.Intent;
 import android.content.Context;
