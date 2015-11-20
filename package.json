@@ -16,6 +16,7 @@
     "react-component"
   ],
   "author": "JDiaz <julian.diaz@upinion.com>",
+  "license": "MIT",
   "repository": "https://github.com/Upinion/react-native-linking-android",
   "bugs": "https://github.com/Upinion/react-native-linking-android/issues",
   "peerDependencies": {
